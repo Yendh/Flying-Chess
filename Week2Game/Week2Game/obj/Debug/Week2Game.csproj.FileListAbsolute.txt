@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Week2Game\Week2Game\bin\Debug\Week2Game.exe.config
+C:\Users\Administrator\source\repos\Week2Game\Week2Game\bin\Debug\Week2Game.exe
+C:\Users\Administrator\source\repos\Week2Game\Week2Game\bin\Debug\Week2Game.pdb
+C:\Users\Administrator\source\repos\Week2Game\Week2Game\obj\Debug\Week2Game.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Week2Game\Week2Game\obj\Debug\Week2Game.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Week2Game\Week2Game\obj\Debug\Week2Game.exe
+C:\Users\Administrator\source\repos\Week2Game\Week2Game\obj\Debug\Week2Game.pdb
